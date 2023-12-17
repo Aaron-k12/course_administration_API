@@ -1,5 +1,5 @@
 # Course Administration API
-## Used Fast API to design a course administration API that efficiently handles queries related to courses.
+<h2>Used Fast API to design a course administration API that efficiently handles queries related to courses.</h2>
 
 <h3>Adding Collection to MongoDB</h3>
 <p>Screenshots with endpoint</p>
